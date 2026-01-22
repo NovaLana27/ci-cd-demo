@@ -1,1 +1,1 @@
-print('Hello, CI/CO with GitHub Actions!*)
+print('Hello, CI/CD with GitHub Actions!*')
